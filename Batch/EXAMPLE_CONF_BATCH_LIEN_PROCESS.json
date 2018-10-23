@@ -25,7 +25,7 @@
         "updateRecordStatus": false,
         "updateWorkflowTask": "Payment",
         "updateWorkflowStatus": "Lien Ready to File",
-        "nextNotificationDays": 0,
+        "nextNotificationDays 0,
         "nextNotification": "Expiration Notice"
       }
     }
